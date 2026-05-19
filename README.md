@@ -1,16 +1,13 @@
-## Hi there 👋
+# Brian McDowell
 
-<!--
-**brianmcd08/brianmcd08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering manager with hands-on AI experience with RAG pipelines, agentic systems, LLM integration.
 
-Here are some ideas to get you started:
+**Currently building:** Production-grade agentic AI applications with tool use, multi-step reasoning, and MCP integration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent work:**
+- RAG pipeline with vector search, retrieval tuning, and LLM-as-judge evaluation: [live app](https://civ-chatbot-9vnbxfeptmdajugzgdzemr.streamlit.app)
+- Event-driven architecture with SNS fan-out to SQS queues
+
+**Stack:** Python · Java · LangChain · LangGraph · Pinecone · AWS · Claude API
+
+📍 Durham, NC
