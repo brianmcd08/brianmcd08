@@ -1,6 +1,6 @@
 # Brian McDowell
 
-Hands-on engineering manager. Ten years leading engineering teams, mostly on Java and Spring, and I still write code, with production experience in RAG pipelines, agentic systems and LLM integration.
+Engineering manager with 10 years leading full-stack teams. I build with Claude Code every day, with production experience in RAG pipelines, agentic systems and LLM integration.
 
 **Currently:** building Java services with Claude Code, and contributing to open source projects.
 
